@@ -1,6 +1,5 @@
 payload:
   # 内容：Direct
-  - DOMAIN,pilewo.lol
   - DOMAIN,content1.steampowered.com
   - DOMAIN,content2.steampowered.com
   - DOMAIN,content3.steampowered.com
